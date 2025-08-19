@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+
+# Ignore dependencies
+node_modules/
+
+# Ignore backup/temp files
+*.save
+*^T
+
+# Ignore build artifacts
+dist/
+build/
